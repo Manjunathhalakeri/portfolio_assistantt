@@ -1,0 +1,9 @@
+semantic-kernel
+fastapi
+uvicorn
+asyncpg
+sqlalchemy
+pandas
+tabulate
+python-dotenv
+pydantic
